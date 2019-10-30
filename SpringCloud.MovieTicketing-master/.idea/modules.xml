@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud.MovieTicketing-master.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud.MovieTicketing-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieticketing-consumer-movie.iml" filepath="$PROJECT_DIR$/movieticketing-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieticketing-consumer-movie/movieticketing-consumer-movie (1) (com.bingbinlee.springcloud).iml" filepath="$PROJECT_DIR$/movieticketing-consumer-movie/movieticketing-consumer-movie (1) (com.bingbinlee.springcloud).iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieticketing-discovery-eureka/movieticketing-discovery-eureka.iml" filepath="$PROJECT_DIR$/movieticketing-discovery-eureka/movieticketing-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieticketing-hystrix-dashboard/movieticketing-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/movieticketing-hystrix-dashboard/movieticketing-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieticketing-hystrix-turbine/movieticketing-hystrix-turbine.iml" filepath="$PROJECT_DIR$/movieticketing-hystrix-turbine/movieticketing-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieticketing-provider-user/movieticketing-provider-user.iml" filepath="$PROJECT_DIR$/movieticketing-provider-user/movieticketing-provider-user.iml" />
     </modules>
   </component>
 </project>
