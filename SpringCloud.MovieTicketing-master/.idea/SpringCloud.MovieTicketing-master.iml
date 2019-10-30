@@ -2,7 +2,18 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/movieticketing-consumer-movie/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/movieticketing-consumer-movie/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/movieticketing-discovery-eureka/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/movieticketing-discovery-eureka/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/movieticketing-hystrix-dashboard/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/movieticketing-hystrix-dashboard/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/movieticketing-hystrix-turbine/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/movieticketing-hystrix-turbine/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/movieticketing-provider-user/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/movieticketing-provider-user/src/main/resources" type="java-resource" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
